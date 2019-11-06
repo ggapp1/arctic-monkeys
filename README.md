@@ -1,2 +1,2 @@
 # arctic-monkeys
-An analysis of all Arctic monkeys' songs
+An analysis o the Arctic monkeys' songs
